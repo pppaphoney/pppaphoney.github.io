@@ -1,6 +1,12 @@
 {
   "name": "PPAP",
   "symbol": "PPAP",
-  "image": "https://static.wikia.nocookie.net/siivagunner/images/d/db/PPAP.png/",
+  "image": "https://github.com/pppaphoney/pppaphoney.github.io/image.jpg",
+  "seller_fee_basis_points": 500,
+    "creators": [
+    {
+      "address": "9fAky1Rex26jCvBWwzzP6KaZi7ZLptNxjdLavcbGotCx",
+      "share": 100
+    }
   "description": "PINEAPPLE PEN APPLE PEN."
 }
