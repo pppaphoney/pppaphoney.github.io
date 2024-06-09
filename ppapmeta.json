@@ -1,8 +1,9 @@
 {
   "name": "PPAP",
   "symbol": "PPAP",
-    "uri": "https://github.com/pppaphoney/pppaphoney.github.io/ppapmeta.json",
-  "image": "https://github.com/pppaphoney/pppaphoney.github.io/image.jpg",
+
+    "uri": "https://raw.githubusercontent.com/pppaphoney/pppaphoney.github.io/ppapmeta.json",
+  "image": "https://raw.githubusercontent.com/pppaphoney/pppaphoney.github.io/image.jpg",
   "seller_fee_basis_points": 500,
     "creators": [
     {
