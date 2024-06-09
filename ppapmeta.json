@@ -1,6 +1,7 @@
 {
   "name": "PPAP",
   "symbol": "PPAP",
+    "uri": "https://github.com/pppaphoney/pppaphoney.github.io/ppapmeta.json",
   "image": "https://github.com/pppaphoney/pppaphoney.github.io/image.jpg",
   "seller_fee_basis_points": 500,
     "creators": [
@@ -8,5 +9,7 @@
       "address": "9fAky1Rex26jCvBWwzzP6KaZi7ZLptNxjdLavcbGotCx",
       "share": 100
     }
-  "description": "PINEAPPLE PEN APPLE PEN."
+    ]
+    "description": "PINEAPPLE PEN APPLE PEN."
+
 }
